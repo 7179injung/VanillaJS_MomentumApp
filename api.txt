@@ -1,0 +1,7 @@
+1c7dea34c5703971f16887f90da6144b
+37.5390208
+126.8580352
+
+
+
+https://api.openweathermap.org/data/2.5/weather?lat=37.5390208&lon=126.8580352&appid=1c7dea34c5703971f16887f90da6144b
